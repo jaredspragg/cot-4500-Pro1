@@ -1,7 +1,7 @@
 # cot-4500-Pro1# COT-4500 Project 1
 
 ## Description
-This project implements numerical methods such as:
+Assignment implements the following methodss:
 - Approximation Algorithm
 - Bisection Method
 - Fixed-Point Iteration
