@@ -1,3 +1,10 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Fri Jan 31 23:30:21 2025
+
+@author: jared
+"""
+
 from assignment_1 import approximation_algorithm, bisection_method, fixed_point_iteration, newton_raphson
 
 # Test for Approximation Algorithm
